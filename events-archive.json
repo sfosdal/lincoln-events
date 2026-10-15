@@ -1,0 +1,176 @@
+{
+ "events": [
+  {
+   "venue": "Memorial Stadium",
+   "title": "Nebraska Football vs Ohio Bobcats",
+   "date": "2026-09-05",
+   "time": "11:00:00",
+   "url": "https://huskers.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs New Mexico Lobos",
+   "date": "2026-09-10",
+   "time": "18:30:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs Baylor Bears",
+   "date": "2026-09-11",
+   "time": "19:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports"
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs Georgia Tech Yellow Jackets",
+   "date": "2026-09-12",
+   "time": "14:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Memorial Stadium",
+   "title": "Nebraska Football vs Bowling Green Falcons",
+   "date": "2026-09-12",
+   "time": "18:00:00",
+   "url": "https://huskers.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs North Carolina Tar Heels",
+   "date": "2026-09-18",
+   "time": "19:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
+  },
+  {
+   "venue": "Memorial Stadium",
+   "title": "Nebraska Football vs North Dakota Fighting Hawks",
+   "date": "2026-09-19",
+   "time": "18:15:00",
+   "url": "https://huskers.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs Florida Gulf Coast Eagles",
+   "date": "2026-09-20",
+   "time": "12:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs Missouri Tigers",
+   "date": "2026-09-23",
+   "time": "18:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs Rutgers Scarlet Knights",
+   "date": "2026-09-25",
+   "time": "19:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs Ohio State Buckeyes",
+   "date": "2026-09-26",
+   "time": "20:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports"
+  },
+  {
+   "venue": "Memorial Stadium",
+   "title": "Nebraska Football vs Maryland Terrapins",
+   "date": "2026-10-03",
+   "time": "15:00:00",
+   "url": "https://huskers.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
+  },
+  {
+   "venue": "Memorial Stadium",
+   "title": "Nebraska Football vs Indiana Hoosiers",
+   "date": "2026-10-10",
+   "time": "11:00:00",
+   "url": "https://huskers.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Fox"
+    ]
+   }
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Volleyball vs Wisconsin Badgers",
+   "date": "2026-10-10",
+   "time": "18:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FOX"
+    ]
+   }
+  }
+ ]
+}
