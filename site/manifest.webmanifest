@@ -1,0 +1,22 @@
+{
+  "name": "Lincoln Events",
+  "short_name": "Nebraska Events",
+  "description": "What's on in Omaha and Lincoln — the arenas, Memorial Stadium, the halls and the clubs, with the Huskers' and the other home teams' seasons.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141a20",
+  "theme_color": "#141a20",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

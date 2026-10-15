@@ -1,0 +1,118 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-12 (Nebraska): the Big Ten football championship and the College Football Playoff from the published 2026-27 dates, the conference basketball tournaments and the NCAA tournament (Omaha hosts first-round games at the CHI Health Center in 2027), the NCAA volleyball tournament, the NCHC and Frozen Four, the International League as Austin's and Las Vegas's Triple-A rounds, the Clark Cup as Green Bay's, the USL League One playoffs from the league's usual calendar.",
+ "huskers": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Big Ten Championship Game",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "site": "Lucas Oil Stadium, Indianapolis"
+   },
+   {
+    "name": "College Football Playoff, first round",
+    "start": "2026-12-18",
+    "end": "2026-12-19",
+    "tbd": true
+   },
+   {
+    "name": "Quarterfinals",
+    "start": "2026-12-31",
+    "end": "2027-01-01",
+    "tbd": true
+   },
+   {
+    "name": "Semifinals",
+    "start": "2027-01-08",
+    "end": "2027-01-09",
+    "tbd": true
+   },
+   {
+    "name": "National Championship",
+    "start": "2027-01-18",
+    "end": "2027-01-18",
+    "site": "Hard Rock Stadium, Miami Gardens",
+    "final": true
+   }
+  ]
+ },
+ "huskersbasketball": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Big Ten Tournament",
+    "start": "2027-03-10",
+    "end": "2027-03-14",
+    "site": "United Center, Chicago",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first and second rounds",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "Regionals",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "site": "Ford Field, Detroit",
+    "final": true
+   }
+  ]
+ },
+ "huskersvolleyball": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "NCAA Tournament, first and second rounds",
+    "start": "2026-12-03",
+    "end": "2026-12-06",
+    "tbd": true
+   },
+   {
+    "name": "Regionals",
+    "start": "2026-12-10",
+    "end": "2026-12-13",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2026-12-17",
+    "end": "2026-12-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "stars": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Clark Cup Playoffs, first round",
+    "start": "2027-04-19",
+    "end": "2027-04-26",
+    "tbd": true
+   },
+   {
+    "name": "Conference finals",
+    "start": "2027-04-28",
+    "end": "2027-05-06",
+    "tbd": true
+   },
+   {
+    "name": "Clark Cup Final",
+    "start": "2027-05-08",
+    "end": "2027-05-18",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}
