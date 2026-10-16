@@ -171,6 +171,22 @@
      "FOX"
     ]
    }
+  },
+  {
+   "venue": "Lied Center for Performing Arts",
+   "title": "Matt Mathews",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.liedcenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Silver Ticket Karaoke",
+   "date": "2026-10-15",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/silver-ticket-karaoke-bourbon-theatre-tickets/14339504",
+   "type": "concert"
   }
  ]
 }
