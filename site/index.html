@@ -19,6 +19,14 @@
     if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
   } catch (e) { /* no storage — system it is */ }
 </script>
+<!-- Google tag (gtag.js) — the here.events GA4 property, one stream for the map and every city; reports split by hostname -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BTQFXS68HN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BTQFXS68HN');
+</script>
 <title>Lincoln Events — Memorial Stadium, Pinnacle Bank Arena, the Lied Center &amp; the Haymarket clubs</title>
 <meta name="description" content="What's on in Lincoln — Memorial Stadium, Pinnacle Bank Arena, the Devaney Center, the Lied Center, the Bourbon Theatre, the Royal Grove and the Ice Box — with Husker football, basketball and volleyball and the Lincoln Stars at home.">
 <!-- the site's own address and what a shared link shows: name, line, and the share card (share.png, 1200×630, scripts/share-card.mjs) -->
