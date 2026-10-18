@@ -194,6 +194,45 @@
    "date": "2026-10-16",
    "time": "19:00:00",
    "url": "https://www.ticketweb.com/event/bingo-loco-bourbon-theatre-tickets/15038023"
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Cornhuskers Womens Volleyball vs. Purdue Boilermakers Womens Volleyball",
+   "date": "2026-10-17",
+   "time": "16:00:00",
+   "url": "https://huskers.com/sports/womens-volleyball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "The Ice Box",
+   "title": "Lincoln Stars vs. Sioux City Musketeers",
+   "date": "2026-10-17",
+   "time": "18:05:00",
+   "url": "https://lincolnstars.com/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "PBR: Ram Challenger Series",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/pbr-ram-challenger-series-lincoln-nebraska-10-17-2026/event/060064B5F1903FA0",
+   "type": "sports"
+  },
+  {
+   "venue": "Royal Grove",
+   "title": "Boogie T w/ SubDocta",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://theroyalgrove.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Mr. and Miss Fire & Brimstone 2026",
+   "date": "2026-10-17",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/mr-and-miss-fire-bourbon-theatre-tickets/14262804"
   }
  ]
 }
