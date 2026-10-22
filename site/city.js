@@ -44,7 +44,7 @@
     // season), so the rest of the home slate is injected from ESPN
     { slug: 'huskers', label: 'Huskers', name: 'Nebraska Cornhuskers', abbr: 'NEB', re: /nebraska (cornhuskers )?football|husker football/i, sport: 'football', venue: 'Memorial Stadium', colors: ['#e31937', '#ffffff'],
       espn: { sport: 'football', league: 'college-football', id: '158' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      inject: { name: 'Nebraska Football', url: 'https://huskers.com/sports/football/tickets' },
+      inject: { name: 'Nebraska Football', url: 'https://huskers.com/sports/football/schedule' },
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/158.png', schedule: 'https://huskers.com/sports/football/schedule',
       club: 'Nebraska Cornhuskers Football', opens: 'late August', wiki: { title: 'Nebraska Cornhuskers football', teamPage: true },
       news: [['https://huskers.com/rss?path=football', 'Huskers.com']] },
@@ -58,15 +58,15 @@
     // Big Ten weekends, ESPN's schedule fills the rest
     { slug: 'huskersvolleyball', label: 'Huskers Volleyball', name: 'Nebraska Cornhuskers', abbr: 'NEB', re: /nebraska (cornhuskers )?(women'?s )?volleyball|husker volleyball/i, sport: 'volleyball', venue: 'Bob Devaney Sports Center', colors: ['#e31937', '#ffffff'],
       espn: { sport: 'volleyball', league: 'womens-college-volleyball', id: '158' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      inject: { name: 'Nebraska Volleyball', url: 'https://huskers.com/sports/womens-volleyball/tickets' },
-      logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/158.png', schedule: 'https://huskers.com/sports/womens-volleyball/schedule',
+      inject: { name: 'Nebraska Volleyball', url: 'https://huskers.com/sports/volleyball/schedule' },
+      logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/158.png', schedule: 'https://huskers.com/sports/volleyball/schedule',
       club: "Nebraska Cornhuskers Women's Volleyball", opens: 'late August', wiki: { title: "Nebraska Cornhuskers women's volleyball", teamPage: true } },
     // Lincoln Stars, USHL, the Ice Box — Ticketmaster lists the home games.
     // Anchored at the title's start: "Omaha Lancers vs. Lincoln Stars" is a
     // Lancers night, not a Stars one
     { slug: 'stars', label: 'Stars', name: 'Lincoln Stars', abbr: 'LIN', re: /^lincoln stars/i, sport: 'hockey', venue: 'The Ice Box', colors: ['#0a2240', '#c8102e'],
       season: { kind: 'hockeytech', league: USHL.league, key: USHL.key, id: 16, leagueName: 'USHL' }, form: { kind: 'hockeytech', league: USHL.league, key: USHL.key, id: 16 },
-      logo: 'https://assets.leaguestat.com/ushl/logos/16.png', schedule: 'https://lincolnstars.com/schedule',
+      logo: 'https://assets.leaguestat.com/ushl/logos/16.png', schedule: 'https://lincolnstars.com/',
       club: 'Lincoln Stars', opens: 'late September', wiki: { title: 'Lincoln Stars' } },
   ];
 
@@ -114,9 +114,9 @@
       type: 'sports',
       cssVar: '--v-devaney',
       color: '#ea869a',
-      url: 'https://huskers.com/sports/womens-volleyball/schedule',
+      url: 'https://huskers.com/sports/volleyball/schedule',
       icon: 'https://www.google.com/s2/favicons?domain=huskers.com&sz=128',
-      tm: { id: 'KovZpapy7e', match: 'devaney', fallbackUrl: 'https://huskers.com/sports/womens-volleyball/schedule', exclude: /season tickets?|parking|suite/i },
+      tm: { id: 'KovZpapy7e', match: 'devaney', fallbackUrl: 'https://huskers.com/sports/volleyball/schedule', exclude: /season tickets?|parking|suite/i },
       alias: /devaney/i,
     },
     'Lied Center for Performing Arts': {
@@ -134,9 +134,9 @@
       type: 'concert',
       cssVar: '--v-bourbon',
       color: '#ab86ea',
-      url: 'https://www.bourbontheatre.com/events',
+      url: 'https://www.bourbontheatre.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.bourbontheatre.com&sz=128',
-      tm: { id: 'KovZpZAEdaJA', match: 'bourbon', fallbackUrl: 'https://www.bourbontheatre.com/events', exclude: /parking/i },
+      tm: { id: 'KovZpZAEdaJA', match: 'bourbon', fallbackUrl: 'https://www.bourbontheatre.com/calendar/', exclude: /parking/i },
       alias: /bourbon theat(er|re)/i,
     },
     'Royal Grove': {
@@ -154,9 +154,9 @@
       type: 'sports',
       cssVar: '--v-icebox',
       color: '#86eae6',
-      url: 'https://lincolnstars.com/schedule',
+      url: 'https://lincolnstars.com/',
       icon: 'https://www.google.com/s2/favicons?domain=lincolnstars.com&sz=128',
-      tm: { id: 'Z7r9jZa7ZX', match: 'ice box', fallbackUrl: 'https://lincolnstars.com/schedule', exclude: /season tickets?|flex pack|parking|suite/i },
+      tm: { id: 'Z7r9jZa7ZX', match: 'ice box', fallbackUrl: 'https://lincolnstars.com/', exclude: /season tickets?|flex pack|parking|suite/i },
       alias: /ice box/i,
     },
   };
