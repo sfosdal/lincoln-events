@@ -249,6 +249,19 @@
    "time": "19:30:00",
    "url": "https://www.ticketweb.com/event/lords-of-acid-bourbon-theatre-tickets/14226354",
    "type": "concert"
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Cornhuskers Womens Volleyball vs. UCLA Bruins Womens Volleyball",
+   "date": "2026-10-22",
+   "time": "18:00:00",
+   "url": "https://huskers.com/sports/volleyball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
   }
  ]
 }
