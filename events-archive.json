@@ -262,6 +262,38 @@
      "FS1"
     ]
    }
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Womens Basketball vs. Wayne State Wildcats Womens Basketball",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "The Ice Box",
+   "title": "Lincoln Stars vs. Muskegon Lumberjacks",
+   "date": "2026-10-23",
+   "time": "19:05:00",
+   "url": "https://lincolnstars.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Trick Police, Paisty Jenny",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/trick-police-paisty-jenny-bourbon-theatre-tickets/14948813",
+   "type": "concert"
+  },
+  {
+   "venue": "Royal Grove",
+   "title": "TVBOO",
+   "date": "2026-10-23",
+   "time": "21:00:00",
+   "url": "https://theroyalgrove.com/",
+   "type": "concert"
   }
  ]
 }
