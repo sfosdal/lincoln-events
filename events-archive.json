@@ -294,6 +294,22 @@
    "time": "21:00:00",
    "url": "https://theroyalgrove.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Cornhuskers Womens Volleyball vs. USC Trojans Womens Volleyball",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://huskers.com/sports/volleyball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "American Aquarium, Kalyn Fay",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/american-aquarium-kalyn-fay-bourbon-theatre-tickets/14988553",
+   "type": "concert"
   }
  ]
 }
