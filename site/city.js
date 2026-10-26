@@ -200,10 +200,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Lincoln', // the board drops it from the clubs' names ("Lincoln Stars" → Stars; the Cornhuskers keep their state)
-    presetDefault: 'Every room — Memorial Stadium, Pinnacle Bank Arena, the Devaney Center, the Lied Center, the Haymarket clubs and the Ice Box — every team and type',
+    presetDefault: 'Every venue — Memorial Stadium, Pinnacle Bank Arena, the Devaney Center, the Lied Center, the Haymarket clubs and the Ice Box — every team and type',
     presetNeighborhood: 'Lincoln proper only',
     presetBig: 'Only the places that hold 2,000 or more — Memorial Stadium, the arena, the Devaney Center, the Lied Center and the Ice Box',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Lincoln proper only.', big: 'Showing the big rooms only — Memorial Stadium, the arena, the Devaney Center, the Lied Center and the Ice Box.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Lincoln proper only.', big: 'Showing the big venues only — Memorial Stadium, the arena, the Devaney Center, the Lied Center and the Ice Box.' },
   };
 
   global.LQACity = {
