@@ -90,6 +90,7 @@
   var VENUES = {
     // --- the Huskers' stadium, arena and volleyball hall, the Lied Center, the Haymarket clubs, the Stars' rink ---
     'Memorial Stadium': {
+      geo: [40.82059, -96.70556],
       capacity: 85458,
       type: 'sports',
       cssVar: '--v-memorial',
@@ -100,6 +101,7 @@
       alias: /memorial stadium/i,
     },
     'Pinnacle Bank Arena': {
+      geo: [40.81828, -96.70894],
       capacity: 15500,
       type: 'sports',
       cssVar: '--v-pinnacle',
@@ -110,6 +112,7 @@
       alias: /pinnacle bank arena/i,
     },
     'Bob Devaney Sports Center': {
+      geo: [40.82912, -96.69893],
       capacity: 7907,
       type: 'sports',
       cssVar: '--v-devaney',
@@ -120,6 +123,7 @@
       alias: /devaney/i,
     },
     'Lied Center for Performing Arts': {
+      geo: [40.81635, -96.70471],
       capacity: 2200,
       type: 'arts',
       cssVar: '--v-lied',
@@ -130,6 +134,7 @@
       alias: /lied center/i,
     },
     'Bourbon Theatre': {
+      geo: [40.81334, -96.70062],
       capacity: 1300,
       type: 'concert',
       cssVar: '--v-bourbon',
@@ -140,6 +145,7 @@
       alias: /bourbon theat(er|re)/i,
     },
     'Royal Grove': {
+      geo: [40.83613, -96.72444],
       capacity: 1000,
       type: 'concert',
       cssVar: '--v-royalgrove',
@@ -150,6 +156,7 @@
       alias: /royal grove/i,
     },
     'The Ice Box': {
+      geo: [40.8165, -96.7074],
       capacity: 4500,
       type: 'sports',
       cssVar: '--v-icebox',
@@ -211,6 +218,16 @@
     ics: { name: 'Lincoln Events', short: 'Lincoln Events', teams: 'Lincoln home teams — every season', prodid: '-//here.events//lincoln-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events in Lincoln\, NE — Memorial Stadium\, Pinnacle Bank Arena\, the Devaney Center\, the Lied Center\, the Haymarket clubs and the Ice Box' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [40.765, -96.831, 40.885, -96.593], // south, west, north, east — every room, with a margin
+      home: [40.808, -96.741, 40.842, -96.682], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Lincoln', lat: 40.814, lon: -96.703, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
