@@ -141,7 +141,12 @@
       color: '#ab86ea',
       url: 'https://www.bourbontheatre.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.bourbontheatre.com&sz=128',
-      tm: { id: 'KovZpZAEdaJA', match: 'bourbon', fallbackUrl: 'https://www.bourbontheatre.com/calendar/', exclude: /parking/i },
+      tm: { id: 'KovZpZAEdaJA', secondary: true, match: 'bourbon', fallbackUrl: 'https://www.bourbontheatre.com/calendar/', exclude: /parking/i },
+      // the venue's own calendar (the TicketWeb plugin's popups: every show with its clock — "21:00 pm", the doors apart — and the TicketWeb buy link, which
+      // the sold-out check reads; a show without one keeps its More Info page) leads: every Ticketmaster show and one Ticketmaster lacks; Ticketmaster secondary (2026-10-30)
+      feed: { kind: 'cards', url: 'https://www.bourbontheatre.com/calendar/', item: /<div id="tw-event-dialog-\d+"/,
+        title: /(?=[\s\S]*?href="(https:\/\/www\.ticketweb\.com\/event\/[^"?]+|https:\/\/www\.bourbontheatre\.com\/tm-event\/[^"?]+)[^"]*" class="[^"]*tw-(?:buy-tix|more-info)-btn)<div class="tw-name">\s*<a[^>]*>([^<]+)<\/a>/,
+        when: /tw-event-date">([^<]+)<\/span><\/span>\s*(?:<span class="tw-event-time-complete">([^<]*)<)?/ },
       alias: /bourbon theat(er|re)/i,
     },
     'Royal Grove': {
