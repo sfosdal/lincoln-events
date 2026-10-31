@@ -350,6 +350,22 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/silver-ticket-karaoke-bourbon-theatre-tickets/14382724",
    "type": "concert"
+  },
+  {
+   "venue": "The Ice Box",
+   "title": "Lincoln Stars vs. Omaha Lancers",
+   "date": "2026-10-30",
+   "time": "19:05:00",
+   "url": "https://lincolnstars.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "PETROCK: A Spooky Smooth Night of Music",
+   "date": "2026-10-30",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/petrock-a-spooky-smooth-night-bourbon-theatre-tickets/15025093",
+   "type": "concert"
   }
  ]
 }
