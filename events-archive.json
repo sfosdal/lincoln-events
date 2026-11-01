@@ -366,6 +366,34 @@
    "time": "19:30:00",
    "url": "https://www.ticketweb.com/event/petrock-a-spooky-smooth-night-bourbon-theatre-tickets/15025093",
    "type": "concert"
+  },
+  {
+   "venue": "Memorial Stadium",
+   "title": "Nebraska Cornhuskers Football vs. Washington Huskies Football",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://huskers.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Halloween: Space Wizard wsg Gunpoint",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://www.ticketweb.com/event/halloween-space-wizard-wsg-gunpoint-bourbon-theatre-tickets/14291134",
+   "type": "concert"
+  },
+  {
+   "venue": "Royal Grove",
+   "title": "Halloween 2026 at The Royal Grove - Ages 18+",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "https://theroyalgrove.com/"
   }
  ]
 }
