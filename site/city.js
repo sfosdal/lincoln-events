@@ -21,8 +21,7 @@
   //             Stars vs. …" — and the injected ones, "<inject.name> vs …")
   //   venue     the home building; schedule = the club's own schedule page
   //   sport     keys the strip icon (app.js SPORT_ICONS), the game clock,
-  //             the leader categories. Volleyball has no icon in the shared
-  //             table yet (the strip shows the crest alone)
+  //             the leader categories (volleyball's icon added 2026-10-31)
   //   colors    [primary, accent] — the season calendar's home cells and
   //             card frames
   //   espn      ESPN's sport/league/team id — the three Husker programs,
