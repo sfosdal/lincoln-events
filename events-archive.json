@@ -402,6 +402,19 @@
    "time": "19:00",
    "url": "https://www.ticketweb.com/event/blitzkid-modern-hel-tour-2026-bourbon-theatre-tickets/14262944",
    "type": "concert"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Mens Basketball vs. Le Moyne Dolphins Mens Basketball",
+   "date": "2026-11-02",
+   "time": "18:30:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
   }
  ]
 }
