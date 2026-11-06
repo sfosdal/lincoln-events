@@ -154,9 +154,9 @@
       type: 'concert',
       cssVar: '--v-royalgrove',
       color: '#eac886',
-      url: 'https://www.royalgrovelincoln.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.royalgrovelincoln.com&sz=128',
-      tm: { id: 'KovZpZA1Iv7A', match: 'royal grove', fallbackUrl: 'https://www.royalgrovelincoln.com/events', exclude: /parking/i },
+      url: 'https://www.theroyalgrove.com/',
+      icon: 'https://www.google.com/s2/favicons?domain=www.theroyalgrove.com&sz=128',
+      tm: { id: 'KovZpZA1Iv7A', match: 'royal grove', fallbackUrl: 'https://www.theroyalgrove.com/', exclude: /parking/i },
       alias: /royal grove/i,
     },
     'The Ice Box': {
