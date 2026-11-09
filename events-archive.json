@@ -479,6 +479,14 @@
    "time": "21:00",
    "url": "https://www.ticketweb.com/event/blade-rave-bourbon-theatre-tickets/15041443",
    "type": "concert"
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Cornhuskers Wrestling vs. Wyoming Cowboys Wrestling",
+   "date": "2026-11-08",
+   "time": "15:00:00",
+   "url": "https://huskers.com/sports/volleyball/schedule",
+   "type": "sports"
   }
  ]
 }
