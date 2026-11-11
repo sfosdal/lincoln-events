@@ -1,21 +1,20 @@
 {
  "links": {
-  "http://www.huskers.com": "2026-11-08",
-  "https://huskers.com/sports/football/schedule": "2026-11-08",
-  "https://huskers.com/sports/volleyball/schedule": "2026-11-08",
-  "https://lincolnstars.com/": "2026-11-08",
-  "https://theroyalgrove.com/": "2026-11-08",
-  "https://www.bourbontheatre.com/calendar/": "2026-11-08",
+  "http://www.huskers.com": "2026-11-11",
+  "https://huskers.com/sports/football/schedule": "2026-11-11",
+  "https://huskers.com/sports/volleyball/schedule": "2026-11-11",
+  "https://lincolnstars.com/": "2026-11-11",
+  "https://theroyalgrove.com/": "2026-11-11",
+  "https://www.bourbontheatre.com/calendar/": "2026-11-11",
   "https://www.pinnaclebankarena.com/events": "2026-11-10",
   "https://www.theroyalgrove.com/": "2026-11-10"
  },
  "guard": {
-  "https://huskers.com/sports/football/schedule": "2026-11-07",
-  "https://huskers.com/sports/mens-basketball/schedule": "2026-11-07",
-  "https://huskers.com/sports/volleyball/schedule": "2026-11-07",
-  "https://lincolnstars.com/": "2026-11-07",
-  "https://www.bourbontheatre.com/calendar/": "2026-11-07",
-  "https://www.pinnaclebankarena.com/events": "2026-11-07",
-  "https://www.theroyalgrove.com/": "2026-11-07"
+  "https://huskers.com/sports/football/schedule": "2026-11-11",
+  "https://huskers.com/sports/mens-basketball/schedule": "2026-11-11",
+  "https://huskers.com/sports/volleyball/schedule": "2026-11-11",
+  "https://lincolnstars.com/": "2026-11-11",
+  "https://www.bourbontheatre.com/calendar/": "2026-11-11",
+  "https://www.theroyalgrove.com/": "2026-11-11"
  }
 }

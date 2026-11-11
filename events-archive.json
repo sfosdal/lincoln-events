@@ -487,6 +487,22 @@
    "time": "15:00:00",
    "url": "https://huskers.com/sports/volleyball/schedule",
    "type": "sports"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "The Funeral Portrait, Pinknoise, Anyone Else",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/the-funeral-portrait-pinknoise-anyone-bourbon-theatre-tickets/14974943",
+   "type": "concert"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Womens Basketball vs. North Carolina A & T Aggies Womens Basketball",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports"
   }
  ]
 }
