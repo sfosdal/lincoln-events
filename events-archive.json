@@ -503,6 +503,19 @@
    "time": "19:00:00",
    "url": "https://www.pinnaclebankarena.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Mens Basketball vs. Lindenwood Lions Mens Basketball",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
   }
  ]
 }
