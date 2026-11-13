@@ -7,8 +7,8 @@
   "https://theroyalgrove.com/": "2026-11-11",
   "https://www.bourbontheatre.com/calendar/": "2026-11-11",
   "https://www.pinnaclebankarena.com/": "2026-11-12",
-  "https://www.pinnaclebankarena.com/events": "2026-11-10",
-  "https://www.theroyalgrove.com/": "2026-11-10"
+  "https://www.pinnaclebankarena.com/events": "2026-11-13",
+  "https://www.theroyalgrove.com/": "2026-11-13"
  },
  "guard": {
   "https://huskers.com/sports/football/schedule": "2026-11-11",
@@ -16,6 +16,7 @@
   "https://huskers.com/sports/volleyball/schedule": "2026-11-11",
   "https://lincolnstars.com/": "2026-11-11",
   "https://www.bourbontheatre.com/calendar/": "2026-11-11",
+  "https://www.pinnaclebankarena.com/events": "2026-11-13",
   "https://www.theroyalgrove.com/": "2026-11-11"
  }
 }
