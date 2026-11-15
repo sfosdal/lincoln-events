@@ -545,6 +545,51 @@
    "time": "20:00",
    "url": "https://www.ticketweb.com/event/lily-rose-erin-kinsey-bourbon-theatre-tickets/14209604",
    "type": "concert"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+   "date": "2026-11-14",
+   "time": "11:30:00",
+   "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-lincoln-nebraska-11-14-2026/event/060064C468BC2FA3",
+   "type": "sports"
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Cornhuskers Womens Volleyball vs. Iowa Hawkeyes Womens Volleyball",
+   "date": "2026-11-14",
+   "time": "18:00:00",
+   "url": "https://huskers.com/sports/volleyball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "The Ice Box",
+   "title": "Lincoln Stars vs. Sioux Falls Stampede",
+   "date": "2026-11-14",
+   "time": "18:05:00",
+   "url": "https://lincolnstars.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+   "date": "2026-11-14",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-lincoln-nebraska-11-14-2026/event/060064C469122FDA",
+   "type": "sports"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Perception Zero, Lazarus Go Home, Everybody's Friend",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/perception-zero-lazarus-go-home-bourbon-theatre-tickets/14334374",
+   "type": "concert"
   }
  ]
 }
