@@ -598,6 +598,22 @@
    "time": "13:30:00",
    "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-lincoln-nebraska-11-15-2026/event/060064C46992303B",
    "type": "sports"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Womens Basketball vs. Mount St. Mary's Mountaineers Womens Basketball",
+   "date": "2026-11-17",
+   "time": "18:00:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Bob Devaney Sports Center",
+   "title": "Nebraska Cornhuskers Womens Volleyball vs. Minnesota Gophers Womens Volleyball",
+   "date": "2026-11-17",
+   "time": "19:30:00",
+   "url": "https://huskers.com/sports/volleyball/schedule",
+   "type": "sports"
   }
  ]
 }
