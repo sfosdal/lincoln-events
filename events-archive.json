@@ -614,6 +614,33 @@
    "time": "19:30:00",
    "url": "https://huskers.com/sports/volleyball/schedule",
    "type": "sports"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "A Killer's Confession, Dizasterpiece, Dead Things, Sister Scarlet, Bleeding Horizon",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/a-killers-confession-dizasterpiece-dead-bourbon-theatre-tickets/14202374",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:59.829Z",
+    "from": 28.27
+   }
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Mens Basketball vs. South Dakota Coyotes Mens Basketball",
+   "date": "2026-11-18",
+   "time": "19:30:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
   }
  ]
 }
