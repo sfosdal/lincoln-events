@@ -641,6 +641,20 @@
      "BTN"
     ]
    }
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Midwest Dead Coalition, Antelope Valley Boys",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/midwest-dead-coalition-antelope-valley-bourbon-theatre-tickets/14351984",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:19.702Z",
+    "from": 16.42
+   }
   }
  ]
 }
