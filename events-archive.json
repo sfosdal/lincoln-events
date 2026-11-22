@@ -677,6 +677,44 @@
     "checked": "2026-11-16T23:13:48.573Z",
     "from": 27.24
    }
+  },
+  {
+   "venue": "Memorial Stadium",
+   "title": "Nebraska Football vs Ohio State Buckeyes",
+   "date": "2026-11-21",
+   "time": "11:00:00",
+   "url": "https://huskers.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Fox"
+    ],
+    "radio": [
+     "ERADM"
+    ]
+   }
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Silver Ticket Karaoke",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.ticketweb.com/event/silver-ticket-karaoke-bourbon-theatre-tickets/15059853",
+   "type": "concert"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Grand Theft After Dark – Season 1: The Vault Heist",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://www.ticketweb.com/event/grand-theft-after-dark-bourbon-theatre-tickets/14364074",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:14:21.854Z",
+    "from": 27.24
+   }
   }
  ]
 }
