@@ -715,6 +715,20 @@
     "checked": "2026-11-16T23:14:21.854Z",
     "from": 27.24
    }
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Hardly Working Comedy Tour",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/hardly-working-comedy-tour-bourbon-theatre-tickets/14363434",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:01.994Z",
+    "from": 22.09
+   }
   }
  ]
 }
