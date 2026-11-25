@@ -729,6 +729,28 @@
     "checked": "2026-11-21T00:24:01.994Z",
     "from": 22.09
    }
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Sicksense, Trackside, Neo Sol",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/sicksense-trackside-neo-sol-bourbon-theatre-tickets/14286274",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:28.297Z",
+    "from": 23.12
+   }
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Womens Basketball vs. Kansas City Roos Womens Basketball",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports"
   }
  ]
 }
