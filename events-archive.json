@@ -751,6 +751,41 @@
    "time": "19:00:00",
    "url": "https://www.pinnaclebankarena.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "Pinnacle Bank Arena",
+   "title": "Nebraska Cornhuskers Mens Basketball vs. Southern Jaguars Basketball",
+   "date": "2026-11-25",
+   "time": "16:00:00",
+   "url": "https://www.pinnaclebankarena.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
+  },
+  {
+   "venue": "The Ice Box",
+   "title": "Lincoln Stars vs. Omaha Lancers",
+   "date": "2026-11-25",
+   "time": "19:05:00",
+   "url": "https://lincolnstars.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Bourbon Theatre",
+   "title": "Amorphis, Insomnium, Hinayana",
+   "date": "2026-11-25",
+   "time": "19:30",
+   "url": "https://www.ticketweb.com/event/insomnium-amorphis-hinayana-bourbon-theatre-tickets/14277934",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-25T00:09:03.340Z",
+    "from": 38.05
+   }
   }
  ]
 }
